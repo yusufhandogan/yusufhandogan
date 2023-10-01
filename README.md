@@ -5,12 +5,14 @@
 
 Here are some ideas to get you started:
 
-🔗 Find me on:
+##🔗 Find me on:
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yusufhandogan) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yusufhandogann) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://yusufhandogan.medium.com/) 
 
-✨ My Favorite Tools and Languages:
+##✨ My Favorite Tools and Languages:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,django,flask,docker,aws,mysql,selenium,wordpress,php,laravel,react,linux)](https://skillicons.dev)
 
 - 🔭 I’m currently working as Freelancer on the <a href="https://www.upwork.com/freelancers/yusufhand">Upwork</a>
