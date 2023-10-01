@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **yusufhandogan/yusufhandogan** is a ✨ Python Coder & Developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=yusufhandogan&show_icons=true&theme=radical)
 
--->
+
 
 
