@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 **yusufhandogan/yusufhandogan** is a ✨ Python Coder & Developer ✨
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ENG, TR, DE
 
 <br>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=yusufhandogan&show_icons=true&theme=radical)
 
 
