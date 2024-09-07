@@ -6,7 +6,7 @@
 
 Hello World, My name is Yusufhan. But you can call me Yusuf or Joseph for short :)
 
-About 4 years ago, I entered the industry by directing my passion for computers and electronic devices to software. With the Python language, which is my area of ​​expertise, I have signed more than 300 projects in the field of website projects, data analysis and artificial intelligence for years.
+About 6 years ago, I entered the industry by directing my passion for computers and electronic devices to software. With the Python language, which is my area of ​​expertise, I have signed more than 300 projects in the field of website projects, data analysis and artificial intelligence for years.
 
 Then I decided to build much faster and more practical websites for my customers by taking Wordpress training.
 
